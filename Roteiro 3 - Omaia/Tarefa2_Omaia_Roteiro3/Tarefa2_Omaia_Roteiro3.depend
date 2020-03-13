@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1580999325 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa2_omaia_roteiro3\main.cpp
+	<iostream>
+	<locale>
+	"Conta.h"
+	"ContaEspecial.h"
+
+1580923583 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa2_omaia_roteiro3\src\iconta.cpp
+	"IConta.h"
+
+1580998942 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa2_omaia_roteiro3\include\iconta.h
+
+1580999072 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa2_omaia_roteiro3\src\conta.cpp
+	"Conta.h"
+
+1580997937 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa2_omaia_roteiro3\include\conta.h
+	<string>
+	<iostream>
+	"IConta.h"
+
+1580996706 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa2_omaia_roteiro3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1580996307 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa2_omaia_roteiro3\include\contaespecial.h
+	"Conta.h"
+

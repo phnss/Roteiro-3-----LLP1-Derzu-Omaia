@@ -1,0 +1,37 @@
+Pergunta: O que é polimorfismo?Dê um exemplo(com código) de um método polimórfico
+	
+	O polimorfismo permite que um objeto declarado com uma determinada classe com algum de seus métodos
+virtuais, possa apresentar novas caractrísticas em seus métodos quando for chamados, de acordo com qual construtor
+foi inicializado. 
+
+Exemplo:
+
+class Animal{
+	
+public:	
+	Animal();	
+
+	virtual void ruido(){
+		std::cout << "ruído" << st::endl;
+	}
+}; 
+
+class Cachorro : public Animal{
+
+public:
+	Cachorro();
+
+	void ruido(){
+		std::cout << "Latido" << std::endl;
+	}
+
+};
+
+int main(){
+	Animal cachorro = Cachorro();	
+	
+	std::cout << cachorro.ruido << std::endl;
+	//Mostrará na saída o Latido da classe cachorro;
+	
+	return 0;
+}
