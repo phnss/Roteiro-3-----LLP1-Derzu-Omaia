@@ -48,7 +48,13 @@ int main()
     cout << "(Após tentativa de sacar 20000)Saldo: " << contaEspecial.getSaldo() << endl;
     cout << "Chamando a função definirLimite: " << contaEspecial.definirLimite() << endl;
 
+    Poupanca poupanca1 = Poupanca("Palerma 03", 555, 4000, 51, 2);
     cout << "\\-----------------------Classe: Poupança-----------------------//" << endl;
+
+    cout << "Conta: " << poupanca1.getNumeroConta() << endl;
+    cout << "Nome: " << poupanca1.getNomeCliente() << endl;
+    cout << "Saldo: " << poupanca1.getSaldo() << endl;
+    cout << "Render: " << poupanca1.render() << "\n" << endl;
 
     return 0;
 }

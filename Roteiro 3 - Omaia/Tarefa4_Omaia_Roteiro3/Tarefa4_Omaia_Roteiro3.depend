@@ -51,3 +51,55 @@
 1582648757 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\orcamentoestouradoexception.cpp
 	"OrcamentoEstouradoException.h"
 
+1582648991 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\main.cpp
+	<iostream>
+	<locale>
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+	"SistemaGerenciaFolha.h"
+
+1581352186 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\include\assalariado.h
+	"Funcionario.h"
+
+1582641618 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\include\funcionario.h
+	<string>
+
+1581429558 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\include\horista.h
+	"Funcionario.h"
+
+1581429900 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\include\comissionado.h
+	"Funcionario.h"
+
+1582648942 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\include\sistemagerenciafolha.h
+	"Funcionario.h"
+	"FuncionarioNaoExisteException.h"
+	"OrcamentoEstouradoException.h"
+
+1582648158 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\include\funcionarionaoexisteexception.h
+	<exception>
+
+1582648757 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\include\orcamentoestouradoexception.h
+	<exception>
+
+1581352344 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\assalariado.cpp
+	"Assalariado.h"
+
+1581430156 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\comissionado.cpp
+	"Comissionado.h"
+
+1582641805 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\funcionario.cpp
+	"Funcionario.h"
+
+1582648158 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\funcionarionaoexisteexception.cpp
+	"FuncionarioNaoExisteException.h"
+
+1581428120 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\horista.cpp
+	"Horista.h"
+
+1582648757 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\orcamentoestouradoexception.cpp
+	"OrcamentoEstouradoException.h"
+
+1582648942 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa4_omaia_roteiro3\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+

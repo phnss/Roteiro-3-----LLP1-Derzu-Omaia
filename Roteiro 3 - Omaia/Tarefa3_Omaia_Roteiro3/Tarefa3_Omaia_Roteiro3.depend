@@ -32,3 +32,36 @@
 1581113720 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\include\poupanca.h
 	"Conta.h"
 
+1581117257 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\main.cpp
+	<iostream>
+	<locale>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1581105130 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\include\conta.h
+	<string>
+	<iostream>
+
+1581105631 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\include\contacorrente.h
+	"Conta.h"
+
+1581106135 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\include\contaespecial.h
+	"ContaCorrente.h"
+
+1581113720 c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\include\poupanca.h
+	"Conta.h"
+
+1581105631 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\src\conta.cpp
+	"Conta.h"
+
+1581114175 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1581116692 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1581117257 source:c:\users\pedro\desktop\o curso\disciplinas - ufpb\linguagem de programação\omaia\roteiro 3 - omaia\tarefa3_omaia_roteiro3\src\poupanca.cpp
+	"Poupanca.h"
+

@@ -14,7 +14,11 @@ Poupanca::Poupanca(std::string nomeCliente, int numeroConta, double saldo, int v
     this->taxaRendimento = taxaRendimento;
 }
 //-------------MÉTODOS------------------------------------
-double render()
+double Poupanca::render()
 {
-
+    if(variacao == 51){
+        return (saldo * taxaRendimento/100) + saldo;
+    }else if(variacao == 1){
+        return (saldo * (taxaRendimento + 0.5)/100) + saldo;
+    }
 }
